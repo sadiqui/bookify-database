@@ -1,0 +1,66 @@
+Compte Rendu de Projet: Système de Réservation de Salles Bookify
+
+1. Introduction
+
+* Le projet "Système de Réservation de Salles Bookify" a été entrepris pour répondre
+aux besoins de notre organisation en matière de gestion efficace des réservations
+de salles de réunion. L'objectif principal était de créer un système convivial
+permettant aux employés de réserver des salles en fonction de la disponibilité
+et de satisfaire les besoins spécifiques des réunions.
+
+2. Objectifs
+
+* Les objectifs du projet étaient les suivants :
+- Concevoir une interface utilisateur intuitive pour la réservation de salles.
+- Mettre en place une base de données robuste pour stocker les informations sur les
+  employés, les salles, les réservations et l'équipement.
+- Permettre la réservation d'équipement en plus des salles de réunion.
+- Assurer une intégration transparente avec les données existantes des employés et
+  des départements.
+
+3. Fonctionnalités Implémentées
+
+* Le système de réservation de salles Bookify comprend les fonctionnalités suivantes :
+- Gestion des employés, départements et postes de travail.
+- Réservation de salles de réunion avec vérification de la disponibilité.
+- Réservation d'équipement pour les réunions.
+- Interface utilisateur conviviale pour une expérience utilisateur optimale.
+- Intégration avec la base de données existante.
+
+4. Structure de la Base de Données
+
+* La base de données utilise une structure relationnelle avec les tables suivantes :
+Employe, Departement, Poste, Salle, Equipement, Reservation, ReservationEquipement
+
+5. Mise en Œuvre Technique
+
+- Langage de programmation : SQL; Structured Query Language.
+- Système de Gestion de Base de Données : PostgreSQL.
+- Planification du projet : Jira, Altissa Software.
+
+6. Installation et Configuration
+
+Le processus d'installation et de configuration est détaillé dans le fichier README du
+projet. Il comprend les étapes nécessaires pour la mise en place de l'environnement de
+développement et l'exécution du système.
+
+7. Conclusion
+
+Le projet a été livré avec succès, répondant aux besoins spécifiques de l'organisation
+en matière de réservation de salles. Le système est opérationnel, convivial et offre
+une gestion efficace des ressources.
+
+8. Perspectives Futures
+
+* Des améliorations potentielles et des fonctionnalités supplémentaires pourraient être
+envisagées dans le futur, notamment :
+- Mettre en place des sauvegardes automatiques pour assurer la sécurité des données.
+- Planifier des sessions de maintenance pour garantir des performances optimales.
+- Anticiper l'expansion du système en concevant une base de données évolutive.
+​
+
+9. Documentation
+
+La documentation complète du projet, y compris le modèle de base de données, les
+instructions d'installation, et le guide de l'utilisateur, est disponible dans le
+fichier README.md. Les diagrammeS sont disponibles également sur le répo du Github.
